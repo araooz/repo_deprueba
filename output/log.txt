@@ -1,0 +1,5 @@
+Inicio del log.
+Este es un mensaje con número: 
+123
+
+
